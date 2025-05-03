@@ -1,4 +1,3 @@
-
 body {
   font-family: sans-serif;
   background-color: white;
@@ -167,6 +166,7 @@ body {
   margin-bottom: 10px;
 }
 
+/* 🎹 Piano Scale Visualization */
 #scale-visualization {
   display: flex;
   justify-content: center;
