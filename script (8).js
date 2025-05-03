@@ -1,1 +1,0 @@
-/* Full script with all major scale logic and scale visualization goes here */
